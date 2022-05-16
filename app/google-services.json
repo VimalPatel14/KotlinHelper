@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854660084565",
+    "project_id": "kotlin-demo-b0d85",
+    "storage_bucket": "kotlin-demo-b0d85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854660084565:android:13babb1cbbd20ead9c75dc",
+        "android_client_info": {
+          "package_name": "com.vimal.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854660084565-7va173u71dn8hmrhbl95k042sekqqnf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH3lWKe9D9KFbpVZC5mCChA3LKi-wGjRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854660084565-7va173u71dn8hmrhbl95k042sekqqnf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
